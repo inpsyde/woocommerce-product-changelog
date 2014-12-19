@@ -20,7 +20,7 @@ function wcpcl_frontend_add_tab( $tabs ) {
 	// only add changelog if we got one
 	$changelog = wcpvd_get_product_changelog( $product->id );
 	if ( $changelog == '' )
-		return;
+		return $tabs;
 
 	$tabs[ 'changelog' ] = array(
 		'title' 	=> __( 'Changelog', 'wcpcl' ),
