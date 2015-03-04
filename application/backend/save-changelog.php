@@ -3,8 +3,8 @@
  * Feature Name: Save Field
  * Descriptions: These functions are saving the textarea input to the variations
  * Version:      1.0
- * Author:       Inpsyde GmbH for MarketPress
- * Author URI:   http://inpsyde.com
+ * Author:       MarketPress.com
+ * Author URI:   http://marketpress.com
  * Licence:      GPLv3
  */
 

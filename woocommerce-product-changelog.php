@@ -3,7 +3,7 @@
  * Plugin Name: WooCommerce Product Changelog
  * Description: This plugin provides a new product tab called changelog
  * Version:     1.0
- * Author:      Inpsyde GmbH for MarketPress
+ * Author:      MarketPress.com
  * Author URI:  http://inpsyde.com
  * Licence:     GPLv3
  */

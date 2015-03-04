@@ -3,8 +3,8 @@
  * Feature Name: Add Tab
  * Descriptions: These functions are adding the new tab for the changelog
  * Version:      1.0
- * Author:       Inpsyde GmbH for MarketPress
- * Author URI:   http://inpsyde.com
+ * Author:       MarketPress.com
+ * Author URI:   http://marketpress.com
  * Licence:      GPLv3
  */
 

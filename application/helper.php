@@ -3,8 +3,8 @@
  * Feature Name: Helper
  * Descriptions: Here are some functions we need for the product changelog
  * Version:      1.0
- * Author:       Inpsyde GmbH for MarketPress
- * Author URI:   http://inpsyde.com
+ * Author:       MarketPress.com
+ * Author URI:   http://marketpress.com
  * Licence:      GPLv3
  */
 
