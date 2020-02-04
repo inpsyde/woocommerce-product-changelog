@@ -1,4 +1,8 @@
 === WooCommerce Product Changelog ===
+
+## UNMAINTAINED
+NOTE: This repository is no longer maintained. 
+
 Contributors: inpsyde, HerrLlama
 Donate Link: http://marketpress.com
 Tags: woocommerce, product, changelog
